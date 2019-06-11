@@ -1,0 +1,1 @@
+this is the documentation for the openeing emacs
